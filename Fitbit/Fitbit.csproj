@@ -72,6 +72,8 @@
   <ItemGroup>
     <Compile Include="Authenticator.cs" />
     <Compile Include="FitbitClient.cs" />
+    <Compile Include="Helpers\ArgumentList.cs" />
+    <Compile Include="Helpers\RestHelper.cs" />
     <Compile Include="Models\Enums\ErrorType.cs" />
     <Compile Include="Models\ApiError.cs" />
     <Compile Include="FitbitException.cs" />
